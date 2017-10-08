@@ -32,8 +32,10 @@ feature_row:
     btn_label: "Donate"
 ---
 
-## We are SPIN
-We are a charitable organisation based in Manchester, tackling the ongoing issue of homelessness and poverty. Here you can find support if you're experiencing homelessness or poverty, or you can volunteer and support people in need.
+<div class="intro-wrapper">
+  <h2>We are SPIN</h2>
+  <p>We are a charitable organisation based in Manchester, tackling the ongoing issue of homelessness and poverty. Here you can find support if you're experiencing homelessness or poverty, or you can volunteer and support people in need.</p>
+</div>
 
 {% include feature_row id="intro" type="center" %}
 

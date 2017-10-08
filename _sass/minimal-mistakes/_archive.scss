@@ -61,13 +61,35 @@
   & + p {
     text-indent: 0;
   }
+  @include breakpoint($medium) {
+    min-height: 7em;
+  }
+  @include breakpoint($medium-wide) {
+    min-height: 6em;
+  }
+  @include breakpoint($large) {
+    min-height: 7em;
+  }
+  @include breakpoint($x-large) {
+    max-height: 5em;
+  }
 }
 
 .archive__item-teaser {
   border-radius: $border-radius;
+  max-height: 10em;
   overflow: hidden;
   img {
     width: 100%;
+  }
+  @include breakpoint($medium) {
+    max-height: 8em;
+  }
+  @include breakpoint($large) {
+    max-height: 10em;
+  }
+  @include breakpoint($x-large) {
+    max-height: 12em;
   }
 }
 

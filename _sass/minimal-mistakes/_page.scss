@@ -16,10 +16,7 @@
           animation-delay: 0.35s;
 
   @include breakpoint($medium-wide) {
-    max-width: 600px;
-  }
-  @include breakpoint($x-large) {
-    max-width: 900px;
+    max-width: 90%;
   }
 }
 
@@ -215,6 +212,28 @@
   a {
     color: #fff;
     text-decoration: none;
+  }
+}
+
+/*
+   Custom
+   ========================================================================== */
+.intro-wrapper {
+  max-width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+
+  @include breakpoint($large) {
+    max-width: 750px;
+  }
+  h2 {
+    font-size: 1.5em;
+    padding-top: 1em;
+    padding-bottom: 1em;
+  }
+  p {
+    padding-top: 1em;
+    padding-bottom: 2em;
   }
 }
 
