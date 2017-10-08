@@ -1,0 +1,12 @@
+# main links
+main:
+  - title: "Who we are"
+    url: '#'
+  - title: "What we do"
+    url: '#'
+  - title: "Get involved"
+    url: '#'
+  # - title: "Blog"
+  #   url: '#'
+  - title: "Donate"
+    url: '#'
