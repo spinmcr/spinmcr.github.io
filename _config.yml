@@ -9,12 +9,12 @@ minimal_mistakes_skin    : "contrast" # "air", "contrast", "dark", "dirt", "mint
 
 # Site Settings
 locale                   : "en"
-title                    : "SPIN MCR"
+title                    : "SPIN Mancheter"
 title_h1                 : "Supporting People In Need"
 head_title               : "SPIN - Suporting People In Need - Manchester"
 title_separator          : "-"
 name                     : "Supporting People In Need"
-description              : "Let's get together to tackle the ongoing issue of homelessness and poverty in Manchester. We are a charitable organisation based in Manchester"
+description              : "Join SPIN and let's tackle the ongoing issue of homelessness and poverty in Manchester together."
 url                      : "http://supportingpeopleinneed.org"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -113,7 +113,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          : # "https://youtube.com/c/MichaelRoseDesign"
+  youtube          : # 
 
 
 # Reading Files

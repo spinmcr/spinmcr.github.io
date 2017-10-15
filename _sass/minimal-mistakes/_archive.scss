@@ -71,13 +71,13 @@
     min-height: 7em;
   }
   @include breakpoint($x-large) {
-    max-height: 5em;
+    min-height: 5em;
   }
 }
 
 .archive__item-teaser {
   border-radius: $border-radius;
-  max-height: 10em;
+  /*max-height: 10em;*/
   overflow: hidden;
   img {
     width: 100%;

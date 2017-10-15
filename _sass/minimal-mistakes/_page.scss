@@ -233,8 +233,32 @@
   }
   p {
     padding-top: 1em;
-    padding-bottom: 2em;
   }
+  p:last-of-type {
+     padding-bottom: 2em;
+  }
+}
+.container-wrapper {
+  max-width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+
+  @include breakpoint($large) {
+    max-width: 750px;
+  }
+  h1 {
+    font-size: 1.5em;
+  }
+  h2 {
+    font-size: 1.3em;
+    padding-bottom: 1em;
+  }
+  p {
+    padding-top: 1em;
+  }
+  /*p:last-of-type {
+     padding-bottom: 2em;
+  }*/
 }
 
 /*
