@@ -28,3 +28,4 @@ To provide restaurant standard food and drinks served at a street kitchen in Man
 
 ## The team
 
+SPIN would not be possible without the help and support of our volunteers.
