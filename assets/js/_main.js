@@ -70,3 +70,5 @@ $(document).ready(function(){
   });
 
 });
+
+// Google Analytics tracking
