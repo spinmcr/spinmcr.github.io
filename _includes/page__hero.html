@@ -49,10 +49,10 @@
         <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
       {% endif %}
       {% if page.header.cta_url %}
-        <p><a href="{{ cta_path }}" class="btn btn--light-outline btn--large">{{ page.header.cta_label | default: site.data.ui-text[site.locale].more_label | default: "Receive help" }}</a></p>
+        <p><a href="{{ page.header.cta_url }}" class="btn btn--light-outline btn--large">{{ page.header.cta_label | default: site.data.ui-text[site.locale].more_label | default: "Receive help" }}</a></p>
       {% endif %}
       {% if page.header.cta_url_2 %}
-        <p><a href="{{ cta_path }}" class="btn btn--light-outline btn--large">{{ page.header.cta_label_2 | default: site.data.ui-text[site.locale].more_label | default: "Give help" }}</a></p>
+        <p><a href="{{ page.header.cta_url_2 }}" class="btn btn--light-outline btn--large">{{ page.header.cta_label_2 | default: site.data.ui-text[site.locale].more_label | default: "Give help" }}</a></p>
       {% endif %}
     </div>
   {% else %}

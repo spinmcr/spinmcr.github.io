@@ -224,6 +224,12 @@
    Features
    ========================================================================== */
 
+.remove__border {
+  div {
+    border-bottom: none;
+  }
+}
+
 .feature__wrapper {
   @include clearfix();
   margin-bottom: 2em;

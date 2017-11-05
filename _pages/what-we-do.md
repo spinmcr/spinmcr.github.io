@@ -30,7 +30,9 @@ Through [FareShare](http://fareshare.org.uk) we collect surplus food from superm
 
 You will find us behind the Cathedral, next to the river.
 
-<div class="mapouter"><div class="gmap_canvas"><iframe width="600" height="500" id="gmap_canvas" src="https://maps.google.com/maps?q=Manchester%20Cathedral%2C%20Victoria%20Street%2C%20Manchester%2C%20United%20Kingdom&t=&z=16&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>google maps <a href="http://www.pureblack.de/google-maps/">pure black</a></div><style>.mapouter{overflow:hidden;height:500px;width:600px;}.gmap_canvas {background:none!important;height:500px;width:600px;}</style></div>
+<div class="google-maps" style="overflow: hidden;">
+	<div class="mapouter"><div class="gmap_canvas"><iframe width="600" height="500" id="gmap_canvas" src="https://maps.google.com/maps?q=Manchester%20Cathedral%2C%20Victoria%20Street%2C%20Manchester%2C%20United%20Kingdom&t=&z=16&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>google maps <a href="http://www.pureblack.de/google-maps/">pure black</a></div><style>.mapouter{overflow:hidden;height:500px;width:600px;}.gmap_canvas {background:none!important;height:500px;width:600px;}</style></div>
+</div>
 
 ## The rehabilitation
 
@@ -43,7 +45,7 @@ Through the kind **donations** of people and companies such as Kellogg's, we are
 However, in order to further our goal of providing educational inductions and workshops we need your help!
 
 <div style="text-align: center;">
-	<a href="#" style="margin-left: 1em; margin-right: 1em;" class="btn btn--primary btn--large">Donate</a>
+	<a href="https://www.paypal.me/spinmcr/" style="margin-left: 1em; margin-right: 1em;" class="btn btn--primary btn--large">Donate</a>
 	<a href="/get-involved"	style="margin-left: 1em; margin-right: 1em;" class="btn btn--primary btn--large">Volunteer</a>
 </div>
 
@@ -51,4 +53,6 @@ However, in order to further our goal of providing educational inductions and wo
 
 Drop by any time, everyone is welcome. You will find us here:
 
-<div class="mapouter"><div class="gmap_canvas"><iframe width="600" height="500" id="gmap_canvas" src="https://maps.google.com/maps?q=Supporting%20People%20In%20Need%2C%20Coverdale%20Crescent&t=&z=16&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>google maps <a href="http://www.pureblack.de/google-maps/">pure black</a></div><style>.mapouter{overflow:hidden;height:500px;width:600px;}.gmap_canvas {background:none!important;height:500px;width:600px;}</style></div>
+<div class="google-maps" style="overflow: hidden;">
+	<div class="mapouter"><div class="gmap_canvas"><iframe width="600" height="500" id="gmap_canvas" src="https://maps.google.com/maps?q=Supporting%20People%20In%20Need%2C%20Coverdale%20Crescent&t=&z=16&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>google maps <a href="http://www.pureblack.de/google-maps/">pure black</a></div><style>.mapouter{overflow:hidden;height:500px;width:600px;}.gmap_canvas {background:none!important;height:500px;width:600px;}</style></div>
+</div>

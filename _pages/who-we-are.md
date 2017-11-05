@@ -28,4 +28,13 @@ To provide restaurant standard food and drinks served at a street kitchen in Man
 
 ## The team
 
-SPIN would not be possible without the help and support of our volunteers.
+SPIN would not be possible without the help and support of our volunteers. Given our lack of funding, the work we do is fuelled by them. And so, thanks to our dedicated friends, we are able to fulfill our goal of providing food and shelter to those in need.
+
+### Be part of the team
+
+Get involved with SPIN, volunteer and make a difference in person, or help us fund our cause so we may continue to operate and grow.
+
+<div style="text-align: center;">
+	<a href="https://www.paypal.me/spinmcr/" style="margin-left: 1em; margin-right: 1em;" class="btn btn--primary btn--large">Donate</a>
+	<a href="/get-involved"	style="margin-left: 1em; margin-right: 1em;" class="btn btn--primary btn--large">Volunteer</a>
+</div>

@@ -14,7 +14,7 @@ feature_row:
     alt: "Donate food"
     title: "Donate food"
     excerpt: "We collect food that has been donated by various supermarkets, restaurants and other establishments"
-    url: "#"
+    url: "https://www.paypal.me/spinmcr/"
     btn_class: "btn--primary"
     btn_label: "Donate"
   - image_path: /assets/images/streetKitchen.jpg
@@ -28,7 +28,7 @@ feature_row:
     alt: "Providing shelter"
     title: "Provide shelter"
     excerpt: "We provide shelter for rough-sleepers and support them on their journey back into society"
-    url: "#"
+    url: "https://www.paypal.me/spinmcr/"
     btn_class: "btn--primary"
     btn_label: "Donate"
 ---
@@ -39,8 +39,13 @@ feature_row:
   <p>Our mission is to help and support vulnerable and socially-excluded people living in poverty and rough-sleeping in the streets of Manchester</p>
 </div>
 
-{% include feature_row id="intro" type="center" %}
-{% include feature_row %}
+<div class="intro-wrapper">
+	<h2>This is how YOU can help</h2>
+</div>
+<div class="remove__border">
+	{% include feature_row id="intro" type="center" %}
+	{% include feature_row %}
+</div>
 
 <div class="intro-wrapper">
   <h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
