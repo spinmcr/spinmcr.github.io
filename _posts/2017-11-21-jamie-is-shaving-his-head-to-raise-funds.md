@@ -38,6 +38,5 @@ Help us support the homeless by going to Jamie's gofundme page:
 <div style="text-align: center;">
 	<a href="https://www.gofundme.com/gwdwg-supporting-people-in-need" class="btn btn--primary btn--large" onclick="ga('send', 'event', 'CTA', 'click', 'gofundme-Jamie');">Donate to the fund</a>
 </div>
-<br>
 
 A big thanks from all of us here at SPIN.
