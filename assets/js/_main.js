@@ -72,3 +72,11 @@ $(document).ready(function(){
 });
 
 // Google Analytics tracking
+
+$('#need-help').on('click', () => {
+  ga('send', 'event', 'CTA', 'click', 'I need help');
+});
+
+$('#get-involved').on('click', () => {
+  ga('send', 'event', 'CTA', 'click', 'I want to help');
+});

@@ -49,14 +49,14 @@
         <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
       {% endif %}
       {% if page.header.cta_url %}
-        <p><a href="{{ page.header.cta_url }}" class="btn btn--light-outline btn--large">{{ page.header.cta_label | default: site.data.ui-text[site.locale].more_label | default: "Receive help" }}</a></p>
+        <p><a id="{{ page.header.cta_id }}" href="{{ page.header.cta_url }}" class="btn btn--light-outline btn--large">{{ page.header.cta_label | default: site.data.ui-text[site.locale].more_label | default: "Receive help" }}</a></p>
       {% endif %}
       {% if page.header.cta_url_2 %}
-        <p><a href="{{ page.header.cta_url_2 }}" class="btn btn--light-outline btn--large">{{ page.header.cta_label_2 | default: site.data.ui-text[site.locale].more_label | default: "Give help" }}</a></p>
+        <p><a id="{{ page.header.cta_id_2 }}" href="{{ page.header.cta_url_2 }}" class="btn btn--light-outline btn--large">{{ page.header.cta_label_2 | default: site.data.ui-text[site.locale].more_label | default: "Give help" }}</a></p>
       {% endif %}
     </div>
   {% else %}
-    <img src="{{ img_path }}" alt="{{ image_description }}" class="page__hero-image">
+    <img src="{{ img_path }}" alt="{{ image_description }}" class="page__hero-image" style="{% if page.header.base64 %}background:url('{{ page.header.base64 }}') no-repeat center;{% endif %}">
   {% endif %}
   {% if page.header.caption %}
     <span class="page__hero-caption">{{ page.header.caption | markdownify | remove: "<p>" | remove: "</p>" }}</span>

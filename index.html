@@ -2,13 +2,15 @@
 layout: splash-no-container
 author_profile: false
 header:
-  overlay_image: assets/images/hands-charity.jpg
-  overlay_filter: 0.5
-  caption: "Photo credit: Tim Marshall"
+  overlay_image: assets/images/home-hero-big.jpg
+  overlay_filter: 0.3
+  caption: "Photo credit: [Sean Mahoney](http://seanomahoney.com/)"
   cta_label: " I need help "
-  cta_url: '#'
+  cta_url: "https://streetsupport.net/find-help/"
+  cta_id: "need-help"
   cta_label_2: "I want to help"
-  cta_url_2: '/get-involved'
+  cta_url_2: "/get-involved"
+  cta_id_2: "get-involved"
 feature_row:
   - image_path: /assets/images/donatedFood.jpg
     alt: "Donate food"
@@ -54,7 +56,7 @@ feature_row:
 	<p>Whether you are an academic who is skilled at writing grant applications, an excellent cook, or someone with a drive to help the less fortunate, we could really use your help in order to achieve our goals. <a href="/get-involved">Get involved</a> as a volunteer, <a href="/who-we-are">find out more about us</a> or <a href="https://www.paypal.me/spinmcr/">donate</a> to our cause.</p>
 </div>
 
-<div class="intro-wrapper">
+<div class="intro-wrapper blog-feed">
   <h2 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h2>
   {% for post in paginator.posts %}
     {% include archive-single.html %}

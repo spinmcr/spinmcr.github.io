@@ -130,11 +130,16 @@
   position: relative;
   text-align: center;
   margin-bottom: 2em;
+  overflow: hidden;
   @include clearfix;
   -webkit-animation: $intro-transition;
           animation: $intro-transition;
   -webkit-animation-delay: 0.25s;
           animation-delay: 0.25s;
+
+  @include breakpoint($small) {
+    overflow: auto;
+  }
 
   &--overlay {
     text-align: center;
@@ -186,9 +191,15 @@
 }
 
 .page__hero-image {
-  width: 100%;
-  height: auto;
+  max-width: none;
+  max-height: 250px;
   -ms-interpolation-mode: bicubic;
+  @include breakpoint($small) {
+    width: 100%;
+    height: auto;
+    max-width: 100%;
+    max-height: none;
+  }
 }
 
 .page__hero-caption {
@@ -472,4 +483,22 @@
   margin-bottom: 10px;
   font-size: $type-size-6;
   text-transform: uppercase;
+}
+
+/*
+   Blog feed
+   ========================================================================== */
+
+.blog-feed {
+  a {
+    text-decoration: none;
+    color: inherit;
+  }
+  .archive__item-title {
+    padding-bottom: 0;
+  }
+  p {
+    padding-top: 0;
+    padding-bottom: 0;
+  }
 }
