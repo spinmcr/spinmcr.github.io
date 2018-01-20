@@ -7,7 +7,7 @@ cta: "https://gogetfunding.com/campaign_funds/?pre=5447937"
 header: 
   image: assets/images/adele-wendy.jpg
   caption: "Photo credit: [Sean O'Mahoney](http://seanomahoney.com/)"
-  teaser: assets/images/jamie.jpg
+  teaser: assets/images/adele-sm.jpg
 ---
 
 Adele and Wendy are of the most active volunteers at SPIN. They always greet you with a smile and are driven to help those in need.
