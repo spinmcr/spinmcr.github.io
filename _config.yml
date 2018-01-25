@@ -82,6 +82,8 @@ analytics:
   google:
     tracking_id          : "UA-107767021-1"
 
+# API keys
+google-maps: "AIzaSyD1GfxDaUPFWBAJHPY3k_Yxz-BAvfpXzNE"
 
 # Site Author
 author:

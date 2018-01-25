@@ -35,7 +35,7 @@ Thank you for your time.
 
 Help us support the homeless by going to Jamie's gofundme page:
 
-<div style="text-align: center;">
+<div style="text-align: center; padding-bottom: 1em;">
 	<a href="https://www.gofundme.com/gwdwg-supporting-people-in-need" class="btn btn--primary btn--large" onclick="ga('send', 'event', 'CTA', 'click', 'gofundme-Jamie');">Donate to the fund</a>
 </div>
 
