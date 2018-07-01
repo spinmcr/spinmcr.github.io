@@ -21,3 +21,25 @@ jamie:
   twitter: jamiedee91
   facebook: jldennis1
   linkedin: 
+
+alex:
+  name: Alex Ciepielewska
+  web:
+  email: alexciepielewska@gmail.com
+  bio:
+  avatar: assets/images/alex.jpg
+  instagram:
+  twitter:
+  facebook: aleksandra.ciepielewska
+  linkedin:
+
+aaron:
+  name: Aaron James
+  web:
+  email: aaronstretch90@gmail.com
+  bio: "English Literature graduate who has primarily worked with disabilities and in homeless shelters around Manchester. I'm interested in local welfare and hope to raise awareness of SPIN's work across social media."
+  avatar: assets/images/aaron-james.jpg
+  instagram:
+  twitter:
+  facebook: Aaronstretch
+  linkedin: 

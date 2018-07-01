@@ -12,17 +12,17 @@ permalink: /what-we-do.html
 
 # What we do
 
-SPIN's main activity is the Monday indoor soup kitchen and the Sunday roast, where restaurant-quality food, cooked by experienced chefs, is prepared for rough-sleepers and those living in dire poverty.
+SPIN's main activity is supporting and educating our residents at the Well in order to get them back into working society. We also serve a delicious Sunday roast, where restaurant-quality food, cooked by experienced chefs, is prepared for rough-sleepers and those living in dire poverty.
 
 ![image-left](/assets/images/food-counter-sm.jpg){: .align-left}
 
-Food, clothes and toiletries are also given out during these. SPIN also manages the ongoing activities and projects at the Well, a church currently housing 12 homeless, 6 of which have found full-time jobs in the past 4 months thanks to our hardworking volunteers.
+Food, clothes and toiletries are given out during the Sunday roast, and throughout the week. SPIN also manages the ongoing activities and projects at the Well, a church currently housing 12 homeless, 6 of which have found full-time jobs in the past 4 months thanks to our hardworking volunteers.
 
-As a condition of providing accommodation and food, our homeless friends have to volunteer for [FareShare](http://fareshare.org.uk), thereby establishing a work routine to get them ready for a working life.
+As a condition of providing accommodation and food, our homeless friends have to volunteer for [FareShare](http://fareshare.org.uk),thereby establishing a work routine to get them ready for a working life.
 
-## The soup kitchen
+## The Sunday Roast
 
-The SPIN Soup Kitchen is our main event and happens **every Monday** at 7:30pm **at The Well**, in Ardwick. Here we provide hot restaurant-standard meals, cooked by experienced chefs, to those who need it. Along with the hot meal, visitors also get hot tea, coffee and delicious desserts.
+SPIN organises a Sunday Roast **every Sunday** at 1:00pm **at The Well**, in Ardwick. Here we provide hot restaurant-standard meals, cooked by experienced chefs, to those who need it. Along with the hot meal, visitors also get hot tea, coffee and delicious desserts.
 
 ![image-right](/assets/images/deserts-the-well.jpg){: .align-right}
 

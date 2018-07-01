@@ -16,13 +16,15 @@ To get involved you are free to choose your level of commitment.
 
 ## Be a volunteer
 
-Be a volunteer and come help set up and serve food the street kitchen or help with the cooking at the Well ([where is the Well?](/what-we-do#how-to-get-to-the-well)). You're free to come whenever you have some spare time.
+Come once a week (or more if you can) and help us cook, set up and serve food on Sundays at the Well ([where is the Well?](/what-we-do#how-to-get-to-the-well)). Or help our homeless friends to write their CV, find a job, learn something new. You're free to come whenever you have some spare time.
 
 ## Be a team member
 
 Be a team member and become more committed to SPIN's mission. You'll be added to the SPIN team page where you can participate more actively in events, give your ideas and play a bigger part in the charity.
 
-This includes helping out at the [Street Kitchen](/what-we-do#the-street-kitchen) and at [the Well](/what-we-do#the-rehabilitation) on a regular basis. Be it in rehabilitation activities, cooking or fixing up the Well. No matter what you choose to do, your work will be highly rewarding as you will be helping those without a roof to receive a nice hot meal and/or to get back into society.
+This includes helping out at [the Well](/what-we-do#the-rehabilitation) on a regular basis. Be it in rehabilitation activities, cooking or fixing up the Well. No matter what you choose to do, your work will be highly rewarding as you will be helping those without a roof to get back into society.
+
+You can sign up to shifts where you will be at the Well taking care of our residents. For night shifts, beds and food are provided.
 
 ## Be a fundraiser
 
